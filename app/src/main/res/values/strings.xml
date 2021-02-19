@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodayWeather</string>
+    <string name="fragment_place_EditTextHint">输入地址</string>
+</resources>
